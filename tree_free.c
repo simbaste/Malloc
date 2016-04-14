@@ -1,11 +1,11 @@
 /*
-** main.c for  in /home/simomb_s/semestre2/Btree
+** tree_free.c for list in /home/simomb_s/MyGithub/Malloc
 **
 ** Made by stephanedarcy simomba
 ** Login   <simomb_s@epitech.net>
 **
-** Started on  Wed Mar 25 23:29:05 2015 stephanedarcy simomba
-** Last update Wed Feb 10 22:50:51 2016 nicolas khenkittisak
+** Started on  Thu Apr 14 12:58:30 2016 stephanedarcy simomba
+** Last update Thu Apr 14 12:59:57 2016 stephanedarcy simomba
 */
 
 #include <stdlib.h>

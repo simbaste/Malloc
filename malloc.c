@@ -1,11 +1,11 @@
 /*
-** malloc.c for malloc in /home/khenki_n/Rendu/PSU_2015_malloc
+** malloc.c for malloc in /home/simomb_s/MyGithub/Malloc
 **
-** Made by khenki_n
-** Login   <khenki_n@epitech.net>
+** Made by stephanedarcy simomba
+** Login   <simomb_s@epitech.net>
 **
-** Started on Wed Jan 27 17:17:11 2016 khenki_n
-** Last update Sat Apr  2 19:42:22 2016 stephanedarcy simomba
+** Started on  Thu Apr 14 12:58:09 2016 stephanedarcy simomba
+** Last update Thu Apr 14 12:58:12 2016 stephanedarcy simomba
 */
 
 #include <unistd.h>

@@ -1,11 +1,11 @@
 /*
-** tes.c for tet in /home/khenki_n
+** fichier.c for malloc in /home/simomb_s/MyGithub/Malloc
 **
-** Made by khenki_n
-** Login   <khenki_n@epitech.net>
+** Made by stephanedarcy simomba
+** Login   <simomb_s@epitech.net>
 **
-** Started on Wed Feb  3 14:41:40 2016 khenki_n
-** Last update Fri Feb  5 03:34:16 2016 stephanedarcy simomba
+** Started on  Thu Apr 14 12:58:56 2016 stephanedarcy simomba
+** Last update Thu Apr 14 12:58:57 2016 stephanedarcy simomba
 */
 
 #include <stdio.h>

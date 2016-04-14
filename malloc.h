@@ -1,11 +1,11 @@
 /*
-** malloc.h for malloc in /home/khenki_n/Rendu/PSU_2015_malloc
+** malloc.h for m in /home/simomb_s/MyGithub/Malloc
 **
-** Made by khenki_n
-** Login   <khenki_n@epitech.net>
+** Made by stephanedarcy simomba
+** Login   <simomb_s@epitech.net>
 **
-** Started on Wed Jan 27 16:45:01 2016 khenki_n
-** Last update Wed Feb 10 22:34:50 2016 nicolas khenkittisak
+** Started on  Thu Apr 14 12:59:35 2016 stephanedarcy simomba
+** Last update Thu Apr 14 12:59:36 2016 stephanedarcy simomba
 */
 
 #ifndef MALLOC_H_

@@ -1,11 +1,11 @@
 /*
-** alloc_mem.c for alloc_mem in /home/khenki_n/Rendu/2/PSU_2015_malloc
+** alloc_mem.c for  in /home/simomb_s/MyGithub/Malloc
 **
-** Made by khenki_n
-** Login   <khenki_n@epitech.net>
+** Made by stephanedarcy simomba
+** Login   <simomb_s@epitech.net>
 **
-** Started on Mon Feb  8 16:30:47 2016 khenki_n
-** Last update Wed Feb 10 22:49:11 2016 nicolas khenkittisak
+** Started on  Thu Apr 14 12:59:09 2016 stephanedarcy simomba
+** Last update Thu Apr 14 12:59:12 2016 stephanedarcy simomba
 */
 
 #include <unistd.h>

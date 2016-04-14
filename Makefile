@@ -1,11 +1,11 @@
 ##
-## Makefile for makefile in /home/khenki_n/Rendu/PSU_2015_malloc/tmp
+## Makefile for m in /home/simomb_s/MyGithub/Malloc
 ##
-## Made by khenki_n
-## Login   <khenki_n@epitech.net>
+## Made by stephanedarcy simomba
+## Login   <simomb_s@epitech.net>
 ##
-## Started on Mon Feb  1 18:38:14 2016 khenki_n
-## Last update Wed Feb 10 21:03:22 2016 stephanedarcy simomba
+## Started on  Thu Apr 14 12:59:23 2016 stephanedarcy simomba
+## Last update Thu Apr 14 12:59:24 2016 stephanedarcy simomba
 ##
 
 CC	= gcc -g3

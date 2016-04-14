@@ -1,11 +1,11 @@
 /*
-** show_alloc_mem.c for showmem in /home/khenki_n/Rendu/PSU_2015_malloc/tmp
+** show_alloc_mem.c for m in /home/simomb_s/MyGithub/Malloc
 **
-** Made by khenki_n
-** Login   <khenki_n@epitech.net>
+** Made by stephanedarcy simomba
+** Login   <simomb_s@epitech.net>
 **
-** Started on Mon Feb  1 17:41:01 2016 khenki_n
-** Last update Tue Feb  2 10:42:10 2016 stephanedarcy simomba
+** Started on  Thu Apr 14 12:59:47 2016 stephanedarcy simomba
+** Last update Thu Apr 14 12:59:48 2016 stephanedarcy simomba
 */
 
 #include <unistd.h>
